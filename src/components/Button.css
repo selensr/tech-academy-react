@@ -1,0 +1,35 @@
+.pink {
+  border: none;
+  background-color: palevioletred;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+.orange {
+  border: none;
+  background-color: orange;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+.green {
+  border: none;
+  background-color: green;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+.blue {
+  border: none;
+  background-color: blue;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 20px;
+}
